@@ -6,7 +6,7 @@
 | Breaking Bad Forum | [bbzzzsvqcrqtki6umym6itiixfhni37ybtt7mkbjyxn2pgllzxf2qgyd.onion](http://bbzzzsvqcrqtki6umym6itiixfhni37ybtt7mkbjyxn2pgllzxf2qgyd.onion) |
 | DuckDuckGo | [duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion](https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion) |
 | Pro Publica | [p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion](http://p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion) |
-| Hidden wiki | [wikiv2z7bogl633j4ok2fs3a3ht5f45gpjtiasmqwuxacclxek4u47qd.onion](http://wikiv2z7bogl633j4ok2fs3a3ht5f45gpjtiasmqwuxacclxek4u47qd.onion) |
+| Hidden wiki | [wiki5uilrynvgw5p2xp5zglswjyhg6yherm24fjbq4ffxnlmvt7u46yd.onion](http://wiki5uilrynvgw5p2xp5zglswjyhg6yherm24fjbq4ffxnlmvt7u46yd.onion) |
 | = = = | = = = |
 | TOR markets | TOR markets |
 | = = = | = = = |
